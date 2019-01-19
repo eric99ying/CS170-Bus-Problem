@@ -1,7 +1,7 @@
 # Bus Problem Solver
 Eric, Charles, Charlie
 
-This algorithm aims to solve the following NP hard problem. The solver scored in the 85th percentile out of all 331 submitted solvers, preserving around 0.45 of all friend pairs. 
+This algorithm aims to solve the following NP hard problem. The solver scored in the 85th percentile out of all 331 submitted solvers, preserving around 0.45 of all friend pairs. This solver runs three different variations of greedy algorithms on each test case, and it chooses the maximal scoring output. 
 
 You are a tired, overworked teacher who has spent the last week organizing
 a field trip for your entire middle school. The night before the trip, you
