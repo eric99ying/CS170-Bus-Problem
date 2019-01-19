@@ -1,7 +1,7 @@
 # Bus Problem Solver
 Eric, Charles, Charlie
 
-This algorithm aims to solve the following NP hard problem. 
+This algorithm aims to solve the following NP hard problem. The solver scored in the 85th percentile out of all 331 submitted solvers, preserving 0.45
 
 You are a tired, overworked teacher who has spent the last week organizing
 a field trip for your entire middle school. The night before the trip, you
