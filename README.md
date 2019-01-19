@@ -1,5 +1,5 @@
-# Bus-Boi
-Bus-Bois only Eric, Charles, Charlie
+# Bus Problem Solver
+Eric, Charles, Charlie
 
 This algorithm aims to solve the following NP hard problem. 
 
